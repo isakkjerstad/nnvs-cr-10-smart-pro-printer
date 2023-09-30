@@ -1,6 +1,6 @@
 # Files:
-- *.curaprofile -> Cura profile for high quality printing with the printer.
-- *.3mf -> Machine settings and profile for the printer.
+- CR-10_Smart_Pro.curaprofile -> Cura profile for high quality printing with the printer.
+- profile.3mf -> Machine settings and profile for the printer.
 
 ## CR-10 Smart Pro settings:
 ### Printer Settings:
