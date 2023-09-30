@@ -1,6 +1,15 @@
 # Files:
-- CR-10_Smart_Pro.curaprofile -> Cura profile for high quality printing with the printer.
-- profile.3mf -> Machine settings and profile for the printer.
+#### Printer configuration files:
+- **CR-10_Smart_Pro.curaprofile** -> Cura profile for high quality printing with the printer.
+- **profile.3mf** -> Machine settings and profile for the printer.
+
+#### Material files:
+- **Add-North_E-PLA.xml.fdm_material** -> Add:North E-PLA.
+
+#### 3D files:
+- *.3mf
+- *.stl
+- *.obj
 
 ## CR-10 Smart Pro settings:
 ### Printer Settings:
